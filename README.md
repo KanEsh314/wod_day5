@@ -1,5 +1,7 @@
 # wod_day5
-1)Fork this project. 2)Write the solution in your fav editor 3)Push the answer to your Github
+1)Fork this project. 
+2)Write the solution in your fav editor 
+3)Push the answer to your Github
 
 WOD Day 5
 Consider a staircase of size n = 4:
